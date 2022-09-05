@@ -8,11 +8,16 @@ html {
 
 body {
   height:100vh;
-  font-family: open sans;
+  font-family: Arial, Helvetica, sans-serif;
   display:flex;
   justify-content:center;
   align-items:center;
   color:#10214e;
+  background-color: lightcoral;
+}
+
+.small {
+  font-size: 14px;
 }
 
 article {
@@ -42,7 +47,7 @@ header {
 
 h1 {
   margin:2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: #00ffbf;
 }
 
 button {
@@ -86,6 +91,7 @@ img {
   position:relative;
   top:2rem;
   transition:.25s .15s;
+  height: 250px;
 }
 
 dl {
