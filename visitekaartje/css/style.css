@@ -1,0 +1,88 @@
+.content-holder {
+    display: flex;
+    justify-content: center;
+    padding: 12em 5em;
+    border-radius: 8px;
+    border: solid 4px;
+    background-color: #CAD8E5;
+}
+
+.content-holder-1 {
+    position: absolute;
+    padding: 2.4em 14.3em;
+    border-radius: 8px;
+    border: solid 4px;
+    background-color: #CAD8E5;
+    top: 40px;
+    left: 37.9%;
+}
+
+.container {
+    padding: 7em 45em;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.ik {
+    width: 9em;
+    border-radius: 65px;
+    border: solid 4px black;
+}
+
+.hart {
+    font-size: 55px;
+    position: absolute;
+    top: 115px;
+    color: red;
+    left: 39%;
+}
+
+.koning {
+    font-size: 40px;
+    position: absolute;
+    top: 100px;
+    left: 39%;
+}
+
+.hart-rot {
+    font-size: 55px;
+    position: absolute;
+    bottom: 155px;
+    right: 39%;
+    color: red;
+    transform: rotate(180deg);
+}
+
+.koning-rot {
+    font-size: 40px;
+    position: absolute;
+    bottom: 140px;
+    right: 39%;
+    transform: rotate(180deg);
+}
+
+.klaveren {
+    font-size: 52px;
+    position: absolute;
+    top: -19px;
+    color: black;
+    left: 4%;
+}
+
+.tien {
+    font-size: 40px;
+    position: absolute;
+    top: -31px;
+    left: 3%;
+}
