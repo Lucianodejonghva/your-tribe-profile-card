@@ -1,4 +1,4 @@
-> In deze task ben ik aan de slag gegaan met het ontwerpen en bouwen van een visite kaartje. Op de onderstaande screen kun je het resultaat bekijken.
+In deze task ben ik aan de slag gegaan met het ontwerpen en bouwen van een visite kaartje. Op de onderstaande screen kun je het resultaat bekijken.
 
 Als thema van mijn visitekaartje, heb ik info verwerkt aan de hand van speelkaarten.
 
